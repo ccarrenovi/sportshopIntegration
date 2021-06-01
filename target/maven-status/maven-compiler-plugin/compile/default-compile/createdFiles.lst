@@ -1,0 +1,5 @@
+org/jbossgroup/tx/CustomTransactionManager.class
+org/jbossgroup/bean/HelloRouteBuilder.class
+org/jbossgroup/jpa/Resources.class
+org/jbossgroup/bean/HelloBean.class
+org/jbossgroup/entity/Customer.class
